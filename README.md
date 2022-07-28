@@ -1,6 +1,6 @@
 #                                                                         HERMES SETUP MANUAL
 ##                                                        Easy installation of IBC Relayer(Hermes) Stride & Gaia
-![image](https://user-images.githubusercontent.com/93165931/181603865-ae62aa9b-bddb-4382-8ac6-280728cd6330.png)
+![image](https://avatars.githubusercontent.com/u/107594195?s=96&v=4)
 ## Create .hermes folder
 ```
 cd $HOME
